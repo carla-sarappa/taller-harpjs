@@ -1,0 +1,5 @@
+br
+br
+div:ul
+	for contenido in public._data.posts
+		li: a(href="#{contenido.url}") #{contenido.nombrePost}

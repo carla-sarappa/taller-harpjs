@@ -1,0 +1,9 @@
+{
+	"indice":[
+	{"titulo":"Home", "url":"/index"},
+	{"titulo":"About", "url":"/about"}
+	],
+	"posts":[
+	{"nombrePost":"post 1", "url":"post1"},
+	{"nombrePost":"post 2", "url":"post2"}]
+}
